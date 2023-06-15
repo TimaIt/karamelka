@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Безрукавка",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 300,
+    "imgSrc": "безрукавка.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Варежки",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 250,
+    "imgSrc": "варежки.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ветровка",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 230,
+    "imgSrc": "ветровка.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Двойка",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 320,
+    "imgSrc": "двойка.jpg"
+  }
+]
