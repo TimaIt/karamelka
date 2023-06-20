@@ -1,28 +1,28 @@
 /*--------------------
-Vars
---------------------*/
+  Vars
+  --------------------*/
 let progress = 50;
 let startX = 0;
 let active = 0;
 let isDown = false;
 
 /*--------------------
-Contants
---------------------*/
+  Contants
+  --------------------*/
 const speedWheel = 0.02;
 const speedDrag = -0.1;
 
 /*--------------------
-Get Z
---------------------*/
+  Get Z
+  --------------------*/
 const getZindex = (array, index) =>
   array.map((_, i) =>
     index === i ? array.length : array.length - Math.abs(index - i)
   );
 
 /*--------------------
-Items
---------------------*/
+  Items
+  --------------------*/
 const $items = document.querySelectorAll(".carousel-item");
 const $cursors = document.querySelectorAll(".cursor");
 
@@ -33,8 +33,8 @@ const displayItems = (item, index, active) => {
 };
 
 /*--------------------
-Animate
---------------------*/
+  Animate
+  --------------------*/
 const animate = () => {
   progress = Math.max(0, Math.min(progress, 100));
   active = Math.floor((progress / 100) * ($items.length - 1));
@@ -44,8 +44,8 @@ const animate = () => {
 animate();
 
 /*--------------------
-Click on Items
---------------------*/
+  Click on Items
+  --------------------*/
 $items.forEach((item, i) => {
   item.addEventListener("click", () => {
     progress = (i / $items.length) * 100 + 10;
@@ -54,8 +54,8 @@ $items.forEach((item, i) => {
 });
 
 /*--------------------
-Handlers
---------------------*/
+  Handlers
+  --------------------*/
 const handleWheel = (e) => {
   const wheelProgress = e.deltaY * speedWheel;
   progress = progress + wheelProgress;
@@ -86,8 +86,8 @@ const handleMouseUp = () => {
 };
 
 /*--------------------
-Listeners
---------------------*/
+  Listeners
+  --------------------*/
 document.addEventListener("mousewheel", handleWheel);
 document.addEventListener("mousedown", handleMouseDown);
 document.addEventListener("mousemove", handleMouseMove);

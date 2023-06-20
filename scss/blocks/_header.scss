@@ -16,6 +16,10 @@
     margin-left: 20px;
     mix-blend-mode: darken;
   }
+  &__loogo {
+    margin: 0;
+    font-family: fantasy, sans;
+  }
   nav {
     display: flex;
     align-items: center;
