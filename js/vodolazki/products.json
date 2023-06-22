@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Водолазка Veo Baby",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 495,
+    "imgSrc": "водолазка.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Водолазка Puan Baby",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 450,
+    "imgSrc": "водолазка1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Водолазка Puan baby",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 395,
+    "imgSrc": "водолазка2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Боди-водолазка Puan Baby",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 349,
+    "imgSrc": "водолазка3.jpg"
+  }
+]

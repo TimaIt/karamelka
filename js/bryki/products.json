@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Штаны Ango Belo",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 590,
+    "imgSrc": "штаны.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Штаны Baynas",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 980,
+    "imgSrc": "штаны1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Штаны Little Gentleman",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 465,
+    "imgSrc": "штаны2.png"
+  },
+  {
+    "id": 4,
+    "title": "Штаны Kotton Baby в полоску",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 795,
+    "imgSrc": "штаны3.png"
+  }
+]

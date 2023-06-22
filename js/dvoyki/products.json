@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Двойка Cikoby Флорида",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 1090,
+    "imgSrc": "двойка1.png"
+  },
+  {
+    "id": 2,
+    "title": "Двойка Cikoby Тельняшка",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 1290,
+    "imgSrc": "двойка2.png"
+  },
+  {
+    "id": 3,
+    "title": "Двойка Bobby Jr. Дино",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 1490,
+    "imgSrc": "двойка3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Двойка Cikoby Wild Home",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 1090,
+    "imgSrc": "двойка4.png"
+  }
+]

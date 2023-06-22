@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Боди Aziz Bebe",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 340,
+    "imgSrc": "боди.png"
+  },
+  {
+    "id": 2,
+    "title": "Боди Bebetto Polo",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 630,
+    "imgSrc": "боди1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Боди Caramell Мишка",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 440,
+    "imgSrc": "боди2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Боди Bimini Коала",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 385,
+    "imgSrc": "боди3.jpg"
+  }
+]

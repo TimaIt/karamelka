@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Детский махровый халат",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 1590,
+    "imgSrc": "халат.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Халат для мальчика Ramel",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 990,
+    "imgSrc": "халат1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Гамак для купания Sevi Bebe",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 1150,
+    "imgSrc": "гамак.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Гамак для купания, SeviBebe",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 1150,
+    "imgSrc": "гамак1.png"
+  }
+]

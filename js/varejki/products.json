@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Варежки Полярик TG Style",
+    "itemsInBox": 1,
+    "weight": 180,
+    "price": 370,
+    "imgSrc": "варежки1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Варежки Полярик Milk & You",
+    "itemsInBox": 1,
+    "weight": 205,
+    "price": 370,
+    "imgSrc": "варежки2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Варежки Margot bis",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 250,
+    "imgSrc": "варежки3.png"
+  },
+  {
+    "id": 4,
+    "title": "Варежки Margot Bis",
+    "itemsInBox": 1,
+    "weight": 230,
+    "price": 185,
+    "imgSrc": "варежки4.jpg"
+  }
+]

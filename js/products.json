@@ -1,34 +1,34 @@
 [
   {
     "id": 1,
-    "title": "Безрукавка",
+    "title": "Безрукавка Baynas",
     "itemsInBox": 1,
     "weight": 180,
-    "price": 300,
+    "price": 1990,
     "imgSrc": "безрукавка.jpg"
   },
   {
     "id": 2,
-    "title": "Варежки",
+    "title": "Безрукавка Midimod",
     "itemsInBox": 1,
     "weight": 205,
-    "price": 250,
-    "imgSrc": "варежки.jpg"
+    "price": 1250,
+    "imgSrc": "безрукавка1.png"
   },
   {
     "id": 3,
-    "title": "Ветровка",
+    "title": "Безрукавка Midimod",
     "itemsInBox": 1,
     "weight": 182,
-    "price": 230,
-    "imgSrc": "ветровка.jpg"
+    "price": 1250,
+    "imgSrc": "безрукавка2.jpg"
   },
   {
     "id": 4,
-    "title": "Двойка",
+    "title": "Безрукавка Veo",
     "itemsInBox": 1,
     "weight": 230,
-    "price": 320,
-    "imgSrc": "двойка.jpg"
+    "price": 720,
+    "imgSrc": "безрукавка3.jpg"
   }
 ]
